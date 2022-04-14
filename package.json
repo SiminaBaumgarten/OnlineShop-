@@ -1,0 +1,19 @@
+{
+  "name": "onlineshop-",
+  "version": "1.0.0",
+  "description": "First Big Projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SiminaBaumgarten/OnlineShop-.git"
+  },
+  "author": "Simina Baumgarten",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SiminaBaumgarten/OnlineShop-/issues"
+  },
+  "homepage": "https://github.com/SiminaBaumgarten/OnlineShop-#readme"
+}
