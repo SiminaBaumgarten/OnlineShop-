@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Home</title>
+    <link rel="stylesheet" href="./node_modules/font-awesome/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="./node_modules/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="./node_modules/bootswatch/dist/darkly/bootstrap.min.css" />
+</head>
+
+<body>
+    <nav class="navbar navbar-dark bg-primary mb-3">
+        <div class="container">
+            <a class="navbar-brand img-fluid" href="index.html">
+                <img src="/images/Logo.png" alt="" width="70" height="54">
+            </a>
+
+            <ul class="nav justify-content-end">
+                <li class="nav-item">
+                    <a class="nav-link active link-secondary text-light" aria-current="page" href="index.html">Home</a>
+                </li>
+                <!-- <li class="nav-item">
+                    <a class="nav-link text-light" href="#">About me</a>
+                </li> -->
+                <!-- <li class="nav-item">
+                    <a class="nav-link text-light" href="#">Contact</a>
+                </li> -->
+                <li class="nav-item">
+                    <a class="nav-link disabled text-light" href="admin.html" tabindex="-1" aria-disabled="true">Admin</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <div class="container products">
+        <div class="card card-body card-form">
+            <h3>Add new product</h3>
+            <div class="form-group">
+                <input type="text" id="title" class="form-control" placeholder="product title" />
+            </div>
+            <div class="form-group">
+                <input type="text" id="image" class="form-control" placeholder="product image" />
+            </div>
+
+            <div class="form-group">
+                <input type="text" id="description" class="form-control" placeholder="product description" />
+            </div>
+            <div class="form-group">
+                <input type="text" id="dimensions" class="form-control" placeholder="product dimensions" />
+            </div>
+            <div class="form-group">
+                <input type="text" id="price" class="form-control" placeholder="product price" />
+            </div>
+            <button class="btn btn-dark btn-secondary btn-block" id="add-product">
+					Add Product
+				</button>
+        </div>
+        <div id="products" class="card-columns"></div>
+    </div>
+    <script src="src/admin.js" type="module"></script>
+</body>
+
+</html>

@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./node_modules/font-awesome/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="./node_modules/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="style.css">
+    <script src="src/cart.js" async></script>
+    <title>Document</title>
+</head>
+
+<body>
+    <div main-container>
+        <nav class="navbar navbar-light bg-light">
+            <div class="container">
+                <a class="navbar-brand img-fluid" href="index.html">
+                    <img src="/images/Logo.png" alt="" width="70" height="54">
+                </a>
+
+                <ul class="nav justify-content-end">
+                    <li class="nav-item">
+                        <a class="nav-link active link-secondary text-secondary" aria-current="page" href="index.html">Home</a>
+                    </li>
+                    <!-- <li class="nav-item">
+                    <a class="nav-link text-secondary" href="#">About me</a>
+                </li> -->
+                    <li class="nav-item">
+                        <a class="nav-link text-secondary" href="#">Contact</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-secondary" href="admin.html" tabindex="-1" aria-disabled="true">Admin</a>
+                    </li>
+                    <li class="nav-item">
+                        <i class="fa fa-shopping-cart nav-link text-secondary"></i>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+        <div class="container-fluid">
+            <div class="row">
+                <aside class="col-lg-9">
+                    <div class="card">
+                        <div class="table-responsive">
+                            <table class="table table-borderless table-shopping-cart">
+                                <thead class="text-muted">
+                                    <tr class="small text-uppercase">
+                                        <th scope="col">Product</th>
+                                        <th scope="col" width="120">Price</th>
+                                        <th scope="col" width="120">Quantity</th>
+                                        <th scope="col" class="text-right d-none d-md-block" width="200"></th>
+                                    </tr>
+                                </thead>
+                                <tbody class="table-container" id="tbody">
+                                    <tr class="cart-items">
+                                        <td>
+                                            <figure class="itemside align-items-center">
+                                                <div class="aside">
+                                                    <img src="images/Nuferi iarna.jpg" class="img-sm"></div>
+                                                <figcaption class="info"> <a href="#" class="title text-dark">Nuferi iarna</a>
+                                                    <p class="text-muted small">SIZE: 18*24 cm <br> Description: ulei pe panza</p>
+                                                </figcaption>
+                                            </figure>
+                                        </td>
+                                        <td class="cart-price">
+                                            <div class="price-wrap price"> $400
+                                            </div>
+                                        </td>
+
+                                        <td> <input class="form-control cart-quantity-input" type="number" value="1"></td>
+
+                                        <td class="text-right d-none d-md-block">
+                                            <button class="btn btn-light danger" type="button"> Remove</button>
+                                        </td>
+                                    </tr>
+                                    <tr class="cart-items">
+                                        <td>
+                                            <figure class="itemside align-items-center">
+                                                <div class="aside">
+                                                    <img src="images/Icar.jpg" class="img-sm"></div>
+                                                <figcaption class="info">
+                                                    <a href="#" class="title text-dark">Icar</a>
+                                                    <p class="text-muted small">SIZE: 50*70 cm
+                                                        <br> Description: ulei pe panza</p>
+                                                </figcaption>
+                                            </figure>
+                                        </td>
+                                        <td class="cart-price">
+                                            <div class="price-wrap price"> $1500
+                                            </div>
+                                        </td>
+
+                                        <td> <input class="form-control cart-quantity-input" type="number" value="1"></td>
+
+                                        <td class="text-right d-none d-md-block">
+                                            <button class="btn btn-light danger" type="button"> Remove</button>
+                                        </td>
+                                    </tr>
+                                    <tr class="cart-items">
+                                        <td>
+                                            <figure class="itemside align-items-center">
+                                                <div class="aside">
+                                                    <img src="images/Intre pamant si aer.jpg" class="img-sm"></div>
+                                                <figcaption class="info">
+                                                    <a href="#" class="title text-dark">Intre pamant si cer</a>
+                                                    <p class="text-muted small">SIZE: 40*50 cm <br> Description: ulei pe panza</p>
+                                                </figcaption>
+                                            </figure>
+                                        </td>
+                                        <td class="cart-price">
+                                            <div class="price-wrap price"> $450
+                                            </div>
+                                        </td>
+
+                                        <td> <input class="form-control cart-quantity-input" type="number" value="1"></td>
+
+                                        <td class="text-right d-none d-md-block">
+                                            <button class="btn btn-light danger" type="button"> Remove</button>
+                                        </td>
+                                    </tr>
+                                    <tr class="cart-items">
+                                        <td>
+                                            <figure class="itemside align-items-center">
+                                                <div class="aside">
+                                                    <img src="images/Lalele roz.jpg" class="img-sm"></div>
+                                                <figcaption class="info">
+                                                    <a href="#" class="title text-dark">Lalele roz</a>
+                                                    <p class="text-muted small">SIZE: 30*40 cm <br> Description: ulei pe panza</p>
+                                                </figcaption>
+                                            </figure>
+                                        </td>
+                                        <td class="cart-price">
+                                            <div class="price-wrap price"> $1500
+                                            </div>
+                                        </td>
+
+                                        <td> <input class="form-control cart-quantity-input" type="number" value="1"></td>
+
+                                        <td class="text-right d-none d-md-block">
+                                            <button class="btn btn-light danger" type="button"> Remove</button>
+                                        </td>
+                                    </tr>
+                                    <tr class="cart-items">
+                                        <td>
+                                            <figure class="itemside align-items-center">
+                                                <div class="aside">
+                                                    <img src="images/Dupa spectacol.jpg" class="img-sm"></div>
+                                                <figcaption class="info">
+                                                    <a href="#" class="title text-dark">Dupa spectacol</a>
+                                                    <p class="text-muted small">SIZE: 30*40 cm <br> Description: ulei pe panza</p>
+                                                </figcaption>
+                                            </figure>
+                                        </td>
+                                        <td class="cart-price">
+                                            <div class="price-wrap price"> $500
+                                            </div>
+                                        </td>
+
+                                        <td> <input class="form-control cart-quantity-input" type="number" value="1"></td>
+
+                                        <td class="text-right d-none d-md-block">
+                                            <button class="btn btn-light danger" type="button"> Remove</button>
+                                        </td>
+                                    </tr>
+                                    <tr class="cart-items" id="test">
+                                        <td>
+                                            <figure class="itemside align-items-center">
+                                                <div class="aside"><img src="images/Zen.jpg" class="img-sm"></div>
+                                                <figcaption class="info"> <a href="#" class="title text-dark">Zen</a>
+                                                    <p class="text-muted small">SIZE: 50*50 cm<br> Description: ulei pe panza</p>
+                                                </figcaption>
+                                            </figure>
+                                        </td>
+                                        <td>
+                                            <div class="price-wrap price">$ 1500</div>
+                                        </td>
+
+                                        <td> <input class="form-control cart-quantity-input" type="number" value="1"></td>
+                                        <td class="text-right d-none d-md-block">
+                                            <button class="btn btn-light danger btn-round"> Remove</button> </td>
+                                    </tr>
+                                    <tr class="cart-items">
+                                        <td>
+                                            <figure class="itemside align-items-center">
+                                                <div class="aside"><img src="images/Floarea soarelui.jpg" class="img-sm"></div>
+                                                <figcaption class="info"> <a href="#" class="title text-dark">Floarea soarelui</a>
+                                                    <p class="small text-muted">SIZE: 50*70 cm<br> Description: creion pastel pe carton</p>
+                                                </figcaption>
+                                            </figure>
+                                        </td>
+                                        <td>
+                                            <div class="price-wrap price">$ 350 </div>
+                                        </td>
+
+                                        <td> <input class="form-control cart-quantity-input" type="number" value="1"></td>
+                                        <td class="text-right d-none d-md-block">
+                                            <button class="btn btn-light danger btn-round"> Remove</button></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </aside>
+                <aside class="col-lg-3">
+                    <div class="card mb-3">
+                        <div class="card-body">
+                            <form>
+                                <div class="form-group"> <label>Have coupon?</label>
+                                    <div class="input-group"> <input type="text" class="form-control coupon" name="" placeholder="Coupon code"> <span class="input-group-append"> <button class="btn btn-primary btn-apply coupon">Apply</button> </span> </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-body">
+                            <dl class="dlist-align">
+                                <dt>Total price:</dt>
+                                <dd class="text-right ml-3 total">$0</dd>
+                            </dl>
+                            <!-- <dl class="dlist-align">
+                                <dt>Discount:</dt>
+                                <dd class="text-right text-danger ml-3">- $10.00</dd>
+                            </dl>
+                            <dl class="dlist-align">
+                                <dt>Total:</dt>
+                                <dd class="text-right text-dark b ml-3 "><strong>$59.97</strong></dd>
+                            </dl> -->
+                            <hr> <a href="#" class="btn btn-out btn-primary btn-square btn-main"> Make Purchase </a> <a href="#" class="btn btn-out btn-success btn-square btn-main mt-2">Continue Shopping</a>
+                        </div>
+                    </div>
+                </aside>
+            </div>
+        </div>

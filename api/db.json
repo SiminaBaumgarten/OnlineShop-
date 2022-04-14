@@ -1,0 +1,694 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "title": "Copilarie",
+      "description": "creion",
+      "dimensions": "20*30 cm",
+      "price": 250,
+      "currency": "RON",
+      "image": "images/Copilarie.jpg",
+      "category": "abstract si decorativ"
+    },
+    {
+      "id": 3,
+      "title": "Cuplu",
+      "description": "ulei pe panza",
+      "dimensions": "45*60 cm ",
+      "price": 500,
+      "currency": "RON",
+      "image": "images/Cuplu.jpg",
+      "category": "abstract si decorativ"
+    },
+    {
+      "id": 4,
+      "title": "Delicat",
+      "description": "creion pastel",
+      "dimensions": "20*30 cm",
+      "price": "Vandut",
+      "currency": "",
+      "image": "images/Delicat.jpg",
+      "category": "abstract si decorativ"
+    },
+    {
+      "id": 5,
+      "title": "Demetra",
+      "description": "creion pastel",
+      "dimensions": "30*40 cm",
+      "price": 500,
+      "currency": "RON",
+      "image": "images/Demetra.jpg",
+      "category": "abstract si decorativ"
+    },
+    {
+      "id": 6,
+      "title": "Dor de mare",
+      "description": "ulei pe panza",
+      "dimensions": "30*40 cm",
+      "price": "Vandut",
+      "currency": "",
+      "image": "images/Dor de mare.jpg",
+      "category": "abstract si decorativ"
+    },
+    {
+      "id": 7,
+      "title": "Dupa spectacol",
+      "description": "creion pastel",
+      "dimensions": "30*40 cm",
+      "price": 500,
+      "currency": "RON",
+      "image": "images/Dupa spectacol.jpg",
+      "category": "abstract si decorativ"
+    },
+    {
+      "id": 8,
+      "title": "Eleganta",
+      "description": "creion pastel",
+      "dimensions": "50*70 cm",
+      "price": "Vandut",
+      "currency": "",
+      "image": "images/Eleganta.jpg",
+      "category": "abstract si decorativ"
+    },
+    {
+      "id": 9,
+      "title": "Ierburi",
+      "description": "ulei pe panza",
+      "dimensions": "50*70 cm ",
+      "price": "Vandut",
+      "currency": "",
+      "image": "images/Ierburi.jpg",
+      "category": "abstract si decorativ"
+    },
+    {
+      "id": 10,
+      "title": "Inimi in asteptare",
+      "description": "ulei pe panza",
+      "dimensions": "70*50 cm ",
+      "price": 450,
+      "currency": "RON",
+      "image": "images/Inimi in asteptare.jpg",
+      "category": "abstract si decorativ"
+    },
+    {
+      "id": 11,
+      "title": "Inocenta",
+      "description": "creion pastel",
+      "dimensions": "30*40 cm",
+      "price": 350,
+      "currency": "RON",
+      "image": "images/Inocenta.jpg",
+      "category": "abstract si decorativ"
+    },
+    {
+      "id": 12,
+      "title": "Lady",
+      "description": "creion pastel",
+      "dimensions": "30*40 cm",
+      "price": 250,
+      "currency": "RON",
+      "image": "images/Lady.jpg",
+      "category": "abstract si decorativ"
+    },
+    {
+      "id": 13,
+      "title": "Lumina de iarna",
+      "description": "ulei pe panza",
+      "dimensions": "50*70 cm ",
+      "price": "Vandut",
+      "currency": "",
+      "image": "images/Lumina de iarna.jpg",
+      "category": "abstract si decorativ"
+    },
+    {
+      "id": 14,
+      "title": "Meditatie",
+      "description": "creion pastel",
+      "dimensions": "30*40 cm",
+      "price": "Vandut",
+      "currency": "",
+      "image": "images/Meditatie.jpg",
+      "category": "abstract si decorativ"
+    },
+    {
+      "id": 15,
+      "title": "Micuta balerina",
+      "description": "creion pastel",
+      "dimensions": "30*40 cm",
+      "price": 300,
+      "currency": "RON",
+      "image": "images/Micuta balerina.jpg",
+      "category": "abstract si decorativ"
+    },
+    {
+      "id": 16,
+      "title": "Parc Guell",
+      "description": "ulei pe panza",
+      "dimensions": "80 * 100 cm ",
+      "price": "Vandut",
+      "currency": "",
+      "image": "images/Parc Guell.jpg",
+      "category": "abstract si decorativ"
+    },
+    {
+      "id": 17,
+      "title": "Patinatori (reproducere)",
+      "description": "ulei pe panza",
+      "dimensions": "50*50 cm ",
+      "price": 400,
+      "currency": "RON",
+      "image": "images/Patinatori (reproducere).jpg",
+      "category": "abstract si decorativ"
+    },
+    {
+      "id": 18,
+      "title": "Pozitie",
+      "description": "creion pastel",
+      "dimensions": "30*40 cm",
+      "price": 350,
+      "currency": "RON",
+      "image": "images/Pozitie.jpg",
+      "category": "abstract si decorativ"
+    },
+    {
+      "id": 19,
+      "title": "Regina",
+      "description": "creion pastel",
+      "dimensions": "30*40 cm",
+      "price": "Vandut",
+      "currency": "",
+      "image": "images/Regina.jpg",
+      "category": "abstract si decorativ"
+    },
+    {
+      "id": 20,
+      "title": "Repaos",
+      "description": "ulei pe panza",
+      "dimensions": "50*70 cm",
+      "price": "Vandut",
+      "currency": "",
+      "image": "images/Repaos.jpg",
+      "category": "abstract si decorativ"
+    },
+    {
+      "id": 21,
+      "title": "Scari spirala",
+      "description": "ulei pe panza",
+      "dimensions": "70*90 cm ",
+      "price": "Vandut",
+      "currency": "",
+      "image": "images/Scari spirala.jpg",
+      "category": "abstract si decorativ"
+    },
+    {
+      "id": 22,
+      "title": "Topire",
+      "description": "ulei pe panza",
+      "dimensions": "40*30 cm ",
+      "price": 350,
+      "currency": "RON",
+      "image": "images/Topire.jpg",
+      "category": "abstract si decorativ"
+    },
+    {
+      "id": 23,
+      "title": "Vant",
+      "description": "ulei pe panza",
+      "dimensions": "50*50 cm ",
+      "price": 450,
+      "currency": "RON",
+      "image": "images/Vant.jpg",
+      "category": "abstract si decorativ"
+    },
+    {
+      "id": 24,
+      "title": "Visare",
+      "description": "creion pastel",
+      "dimensions": "40*30 cm",
+      "price": 350,
+      "currency": "RON",
+      "image": "images/Visare.jpg",
+      "category": "abstract si decorativ"
+    },
+    {
+      "id": 25,
+      "title": "Vulpea",
+      "description": "ulei pe panza",
+      "dimensions": "30*40 cm",
+      "price": "Vandut",
+      "currency": "",
+      "image": "images/Vulpea.jpg",
+      "category": "abstract si decorativ"
+    },
+    {
+      "id": 26,
+      "title": "Zgarie nori",
+      "description": "ulei pe panza",
+      "dimensions": "40*55 cm ",
+      "price": 350,
+      "currency": "RON",
+      "image": "images/Zgarie nori.jpg",
+      "category": "abstract si decorativ"
+    },
+    {
+      "id": 27,
+      "title": "Atitudine",
+      "description": "creion grafic",
+      "dimensions": "30*40 cm",
+      "price": 400,
+      "currency": "RON",
+      "image": "images/Atitudine.jpg",
+      "category": "cai"
+    },
+    {
+      "id": 28,
+      "title": "Contrast",
+      "description": "creion grafic",
+      "dimensions": "70*50 cm",
+      "price": 450,
+      "currency": "RON",
+      "image": "images/Contrast.jpg",
+      "category": "cai"
+    },
+    {
+      "id": 29,
+      "title": "Profil",
+      "description": "creion pastel",
+      "dimensions": "21 *30 cm",
+      "price": 250,
+      "currency": "RON",
+      "image": "images/Profil.jpg",
+      "category": "cai"
+    },
+    {
+      "id": 30,
+      "title": "Unicorn",
+      "description": "ulei pe panza",
+      "dimensions": "30*30 cm",
+      "price": 450,
+      "currency": "RON",
+      "image": "images/Unicorn.jpg",
+      "category": "cai"
+    },
+    {
+      "id": 31,
+      "title": "Abstract roz si gri",
+      "description": "ulei pe panza",
+      "dimensions": "38*55 cm",
+      "price": 450,
+      "currency": "RON",
+      "image": "images/Abstract roz si gri.jpg",
+      "category": "flori"
+    },
+    {
+      "id": 32,
+      "title": "Apus in gradina",
+      "description": "ulei pe panza",
+      "dimensions": "50*70 cm",
+      "price": 500,
+      "currency": "RON",
+      "image": "images/Apus in gradina.jpg",
+      "category": "flori"
+    },
+    {
+      "id": 33,
+      "title": "Dupa ploaie",
+      "description": "ulei pe panza",
+      "dimensions": "40*50 cm",
+      "price": 450,
+      "currency": "RON",
+      "image": "images/Dupa ploaie.jpg",
+      "category": "flori"
+    },
+    {
+      "id": 34,
+      "title": "Exotic",
+      "description": "ulei pe panza",
+      "dimensions": "30*30 cm",
+      "price": 250,
+      "currency": "RON",
+      "image": "images/Exotic.jpg",
+      "category": "flori"
+    },
+    {
+      "id": 35,
+      "title": "Floarea soarelui",
+      "description": "creion pastel pe carton",
+      "dimensions": "50*70 cm",
+      "price": 350,
+      "currency": "RON",
+      "image": "images/Floarea soarelui.jpg",
+      "category": "flori"
+    },
+    {
+      "id": 36,
+      "title": "Garoafe",
+      "description": "acuarela",
+      "dimensions": "20*30 cm",
+      "price": "Vandut",
+      "currency": "",
+      "image": "images/Garoafe.jpg",
+      "category": "flori"
+    },
+    {
+      "id": 37,
+      "title": "Iaz cu nuferi",
+      "description": "ulei pe panza",
+      "dimensions": "50*70 cm",
+      "price": 700,
+      "currency": "RON",
+      "image": "images/Iaz cu nuferi.jpg",
+      "category": "flori"
+    },
+    {
+      "id": 38,
+      "title": "In gradina",
+      "description": "ulei pe panza",
+      "dimensions": "46*55 cm",
+      "price": "Vandut",
+      "currency": "",
+      "image": "images/In gradina.jpg",
+      "category": "flori"
+    },
+    {
+      "id": 39,
+      "title": "Irisi",
+      "description": "ulei pe panza",
+      "dimensions": "18*24 cm",
+      "price": 250,
+      "currency": "RON",
+      "image": "images/Irisi.jpg",
+      "category": "flori"
+    },
+    {
+      "id": 40,
+      "title": "Lalele roz",
+      "description": "ulei pe panza",
+      "dimensions": "30*40 cm",
+      "price": "Vandut",
+      "currency": "",
+      "image": "images/Lalele roz.jpg",
+      "category": "flori"
+    },
+    {
+      "id": 41,
+      "title": "Liliac mov",
+      "description": "ulei pe panza",
+      "dimensions": "40*50 cm",
+      "price": "Vandut",
+      "currency": "",
+      "image": "images/Liliac mov.jpg",
+      "category": "flori"
+    },
+    {
+      "id": 42,
+      "title": "Liliac",
+      "description": "ulei pe panza",
+      "dimensions": "40*50 cm",
+      "price": "Vandut",
+      "currency": "",
+      "image": "images/Liliac.jpg",
+      "category": "flori"
+    },
+    {
+      "id": 43,
+      "title": "Lux",
+      "description": "ulei pe panza",
+      "dimensions": "50*70 cm",
+      "price": "Vandut",
+      "currency": "",
+      "image": "images/Lux.jpg",
+      "category": "flori"
+    },
+    {
+      "id": 44,
+      "title": "Maci",
+      "description": "ulei pe panza",
+      "dimensions": "40*50 cm",
+      "price": "Vandut",
+      "currency": "",
+      "image": "images/Maci.jpg",
+      "category": "flori"
+    },
+    {
+      "id": 45,
+      "title": "Margarete",
+      "description": "ulei pe panza",
+      "dimensions": "50*50 cm",
+      "price": 500,
+      "currency": "RON",
+      "image": "images/Margarete.jpg",
+      "category": "flori"
+    },
+    {
+      "id": 46,
+      "title": "Nuferi iarna",
+      "description": "ulei pe panza",
+      "dimensions": "18*24 cm",
+      "price": 400,
+      "currency": "RON",
+      "image": "images/Nuferi iarna.jpg",
+      "category": "flori"
+    },
+    {
+      "id": 47,
+      "title": "Pajiste",
+      "description": "acrylic",
+      "dimensions": "30*40 cm",
+      "price": "Vandut",
+      "currency": "",
+      "image": "images/Pajiste.jpg",
+      "category": "flori"
+    },
+    {
+      "id": 48,
+      "title": "Trandafiri albi",
+      "description": "ulei pe panza",
+      "dimensions": "40*50 cm",
+      "price": "Vandut",
+      "currency": "",
+      "image": "images/Trandafiri albi.jpg",
+      "category": "flori"
+    },
+    {
+      "id": 49,
+      "title": "Vaza transparenta",
+      "description": "ulei pe panza",
+      "dimensions": "40*40 cm",
+      "price": "Vandut",
+      "currency": "",
+      "image": "images/Vaza transparenta.jpg",
+      "category": "flori"
+    },
+    {
+      "id": 50,
+      "title": "Verde de primavara",
+      "description": "ulei pe panza",
+      "dimensions": "46*55 cm",
+      "price": 500,
+      "currency": "RON",
+      "image": "images/Verde de primavara.jpg",
+      "category": "flori"
+    },
+    {
+      "id": 51,
+      "title": "Zen",
+      "description": "ulei pe panza",
+      "dimensions": "50*50 cm",
+      "price": "Vandut",
+      "currency": "",
+      "image": "images/Zen.jpg",
+      "category": "flori"
+    },
+    {
+      "id": 52,
+      "title": "Icar",
+      "description": "ulei pe panza",
+      "dimensions": "50*70 cm",
+      "price": "Vandut",
+      "currency": "",
+      "image": "images/Icar.jpg",
+      "category": "pasari"
+    },
+    {
+      "id": 53,
+      "title": "Inca iarna",
+      "description": "ulei pe panza",
+      "dimensions": "50*50 cm",
+      "price": 500,
+      "currency": "RON",
+      "image": "images/Inca iarna.jpg",
+      "category": "pasari"
+    },
+    {
+      "id": 54,
+      "title": "Intre pamant si aer",
+      "description": "ulei pe panza",
+      "dimensions": "40*50 cm",
+      "price": 450,
+      "currency": "RON",
+      "image": "images/Intre pamant si aer.jpg",
+      "category": "pasari"
+    },
+    {
+      "id": 55,
+      "title": "Moment 1",
+      "description": "creion pastel",
+      "dimensions": "30*40 cm",
+      "price": 250,
+      "currency": "RON",
+      "image": "images/Moment 1.jpg",
+      "category": "pasari"
+    },
+    {
+      "id": 56,
+      "title": "Moment 2",
+      "description": "creion pastel",
+      "dimensions": "30*40 cm",
+      "price": 250,
+      "currency": "RON",
+      "image": "images/Moment 2.jpg",
+      "category": "pasari"
+    },
+    {
+      "id": 57,
+      "title": "Pasare rara",
+      "description": "ulei pe panza",
+      "dimensions": "70*50 cm",
+      "price": "Vandut",
+      "currency": "",
+      "image": "images/Pasare rara.jpg",
+      "category": "pasari"
+    },
+    {
+      "id": 58,
+      "title": "Pasari albe",
+      "description": "ulei pe panza",
+      "dimensions": "40*50 cm",
+      "price": 400,
+      "currency": "RON",
+      "image": "images/Pasari albe.jpg",
+      "category": "pasari"
+    },
+    {
+      "id": 59,
+      "title": "Ajutor",
+      "description": "creion pastel",
+      "dimensions": "30*40 cm",
+      "price": 250,
+      "currency": "RON",
+      "image": "images/Ajutor.jpg",
+      "category": "peisajesidiverse"
+    },
+    {
+      "id": 60,
+      "title": "Aripi",
+      "description": "creion pastel",
+      "dimensions": "30*40 cm",
+      "price": "Vandut",
+      "currency": "",
+      "image": "images/Aripi.jpg",
+      "category": "peisajesidiverse"
+    },
+    {
+      "id": 61,
+      "title": "Flori de bumbac",
+      "description": "ulei pe panza",
+      "dimensions": "30*50 cm",
+      "price": "Vandut",
+      "currency": "",
+      "image": "images/Flori de bumbac.jpg",
+      "category": "peisajesidiverse"
+    },
+    {
+      "id": 62,
+      "title": "Iarna in oras",
+      "description": "creion pastel",
+      "dimensions": "20*30 cm",
+      "price": 250,
+      "currency": "RON",
+      "image": "images/Iarna in oras.jpg",
+      "category": "peisajesidiverse"
+    },
+    {
+      "id": 63,
+      "title": "Liniste",
+      "description": "ulei pe panza",
+      "dimensions": "30*40 cm",
+      "price": 400,
+      "currency": "RON",
+      "image": "images/Liniste.jpg",
+      "category": "peisajesidiverse"
+    },
+    {
+      "id": 64,
+      "title": "Marina",
+      "description": "ulei pe panza",
+      "dimensions": "30*40 cm",
+      "price": "Vandut",
+      "currency": "",
+      "image": "images/Marina.jpg",
+      "category": "peisajesidiverse"
+    },
+    {
+      "id": 65,
+      "title": "Mic dejun",
+      "description": "creion pastel",
+      "dimensions": "40*30 cm",
+      "price": 350,
+      "currency": "RON",
+      "image": "images/Mic dejun.jpg",
+      "category": "peisajesidiverse"
+    },
+    {
+      "id": 66,
+      "title": "Padure fermecata",
+      "description": "ulei pe panza",
+      "dimensions": "30*40cm",
+      "price": "Vandut",
+      "currency": "",
+      "image": "images/Padure fermecata.jpg",
+      "category": "peisajesidiverse"
+    },
+    {
+      "id": 67,
+      "title": "Peisaj marin",
+      "description": "ulei pe panza",
+      "dimensions": "40*40 cm",
+      "price": "Vandut",
+      "currency": "",
+      "image": "images/Peisaj marin.jpg",
+      "category": "peisajesidiverse"
+    },
+    {
+      "id": 68,
+      "title": "Peisaj rural",
+      "description": "ulei pe panza",
+      "dimensions": "30*30 cm",
+      "price": "Vandut",
+      "currency": "",
+      "image": "images/Peisaj rural.jpg",
+      "category": "peisajesidiverse"
+    },
+    {
+      "id": 69,
+      "title": "Rasarit",
+      "description": "ulei pe panza",
+      "dimensions": "30*40 cm",
+      "price": 300,
+      "currency": "RON",
+      "image": "images/Rasarit.jpg",
+      "category": "peisajesidiverse"
+    },
+    {
+      "id": 70,
+      "title": "Toamna",
+      "description": "ulei pa panza",
+      "dimensions": "50*70 cm",
+      "price": "Vandut",
+      "currency": "",
+      "image": "images/Toamna.jpg",
+      "category": "peisajesidiverse"
+    }
+  ]
+}
